@@ -1,0 +1,2 @@
+commands used- git remote add origin <repo link>
+git push origin main
